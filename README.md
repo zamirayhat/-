@@ -26,7 +26,7 @@ public static void main(String args[]) {
 	pc.setHardDisk(disk);
 	pc.show();
 }
-}
+}<br/>
 HardDisk类
 package zmr;
 
@@ -38,7 +38,7 @@ public class HardDisk {
     public void setAmount(int amount) {
     	this.amount=amount;
     }
-}
+}<br/>
 PC类
 package zmr;
 
@@ -55,7 +55,7 @@ public class PC {
     	System.out.println("CPU的速度为："+ cpu.getSpeed());
     	System.out.println("硬盘的容量为："+ HD.getAmount());
     }
-}
+}<br/>
 Test类
 package zmr;
 
@@ -70,8 +70,8 @@ public static void main(String args[]) {
 	pc.setHardDisk(disk);
 	pc.show();
 }
-}
+}<br/>
 实验结果
-![](https://github.com/zamirayhat/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008195510.jpg)
+![](https://github.com/zamirayhat/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008195510.jpg)<br/>
 实验感想
 java这么课对我来说有一点难度，这次的实验我也做的不是很好，但是尽力的去完成了。接下来我会继续努力去学习这门课程的。
