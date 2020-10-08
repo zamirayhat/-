@@ -74,4 +74,4 @@ public static void main(String args[]) {
 实验结果
 ![](https://github.com/zamirayhat/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008195510.jpg)
 实验感想
-java这么课对我来说有一点难度，这次的实验我也做的不是很好，但是尽力了
+java这么课对我来说有一点难度，这次的实验我也做的不是很好，但是尽力的去完成了。接下来我会继续努力去学习这门课程的。
