@@ -14,17 +14,21 @@
 ### 核心方法
  cpu类<br/>
 package zmr;
-public class Test {
-public static void main(String args[]) {
-	CPU cpu=new CPU();
-	HardDisk disk=new HardDisk();
-	PC pc=new PC();
-	cpu.setSpeed(2200);
-	disk.setAmount(200);
-	pc.setCPU(cpu);
-	pc.setHardDisk(disk);
-	pc.show();
-}
+public class CPU {
+	int speed;
+	int getSpeed() {
+		return speed;
+	}
+	public void setSpeed(int speed) {
+		this.speed=speed;
+	}
+    int brand;
+    int getBrand() {
+    	return brand;
+    }
+    public void setBrand(int brand) {
+    	this.brand=brand;
+    }
 }<br/>
 HardDisk类<br/>
 package zmr;
@@ -67,7 +71,7 @@ public static void main(String args[]) {
 	pc.show();
 }
 }<br/>
-实验结果
+实验结果<br/>
 ![](https://github.com/zamirayhat/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008195510.jpg)<br/>
-实验感想
+实验感想<br/>
 java这么课对我来说有一点难度，这次的实验我也做的不是很好，但是尽力的去完成了。接下来我会继续努力去学习这门课程的。
