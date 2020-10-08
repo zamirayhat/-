@@ -72,4 +72,4 @@ public static void main(String args[]) {
 }
 }
 实验结果
-![]()
+![](https://github.com/zamirayhat/-/blob/main/PC.java)
