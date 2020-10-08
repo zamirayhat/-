@@ -9,8 +9,8 @@
 5.尝试多种不同的对对象属性调用的方法。<br/>
 6.接触并学会使用github，同时学会markdown语言书写实验报告。<br/>
 ### 实验设计
-1.按照题目要求，先完成基本的对pc机的模拟，含有CPU、HardDisk、PC三个类，以及最后一个Test类。
-2.在基本完成的基础上，加入CPU的新属性品牌，并加入对CPU品牌和速度的逻辑判断；加入HD的新属性类型，同时有对HD的存储容量和类型的逻辑判断。
+1.按照题目要求，先完成基本的对pc机的模拟，含有CPU、HardDisk、PC三个类，以及最后一个Test类。<br/>
+2.在基本完成的基础上，加入CPU的新属性品牌，并加入对CPU品牌和速度的逻辑判断；加入HD的新属性类型，同时有对HD的存储容量和类型的逻辑判断。<br/>
 ### 核心方法
  cpu类
 package zmr;
@@ -72,4 +72,6 @@ public static void main(String args[]) {
 }
 }
 实验结果
-![](https://github.com/zamirayhat/-/blob/main/PC.java)
+![](https://github.com/zamirayhat/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008195510.jpg)
+实验感想
+java这么课对我来说有一点难度，这次的实验我也做的不是很好，但是尽力了
