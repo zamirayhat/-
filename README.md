@@ -12,9 +12,8 @@
 1.按照题目要求，先完成基本的对pc机的模拟，含有CPU、HardDisk、PC三个类，以及最后一个Test类。<br/>
 2.在基本完成的基础上，加入CPU的新属性品牌，并加入对CPU品牌和速度的逻辑判断；加入HD的新属性类型，同时有对HD的存储容量和类型的逻辑判断。<br/>
 ### 核心方法
- cpu类
+ cpu类<br/>
 package zmr;
-
 public class Test {
 public static void main(String args[]) {
 	CPU cpu=new CPU();
@@ -27,9 +26,8 @@ public static void main(String args[]) {
 	pc.show();
 }
 }<br/>
-HardDisk类
+HardDisk类<br/>
 package zmr;
-
 public class HardDisk {
     int amount;
     int getAmount() {
@@ -39,9 +37,8 @@ public class HardDisk {
     	this.amount=amount;
     }
 }<br/>
-PC类
+PC类<br/>
 package zmr;
-
 public class PC {
     CPU cpu;
     HardDisk HD;
@@ -56,9 +53,8 @@ public class PC {
     	System.out.println("硬盘的容量为："+ HD.getAmount());
     }
 }<br/>
-Test类
+Test类<br/>
 package zmr;
-
 public class Test {
 public static void main(String args[]) {
 	CPU cpu=new CPU();
